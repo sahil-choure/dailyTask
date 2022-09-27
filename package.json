@@ -1,0 +1,17 @@
+{
+  "name": "dailytask",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "index.js",
+  "homepage": "https://sahil-choure.github.io/dailyTask",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Sahil Choure",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "node-sass": "^7.0.1"
+  },
+  "devDependencies": {}
+}
